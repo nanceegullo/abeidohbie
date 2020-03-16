@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://doowiefie.arminb.me/sitemap.xml
